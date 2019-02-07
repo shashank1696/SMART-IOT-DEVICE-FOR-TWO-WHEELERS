@@ -23,4 +23,8 @@ GPS tracker is ON 24/7
 Doesn't notify the user
 In Alarm system, the sound is annoying and its loud too.
 
-## 
+## Problem Statement :
+In India, 1lakh cases of vehicle theft on average are reported each year, and the number is still increasing. If the vehicles that are being stolen are not recovered early they are mostly sold or some cases it is burned if the resale value is considered to be too low. In one case a vehicle is stolen, it becomes hard to situate it and cut through it, which considerably lessens the chances of recouping it. In this project, we propose the design and implementation of a vehicle tracking anti-theft system that will protect, secure vehicles. 
+The main problem in the existing system is that the GPS tracker tracks and monitors the vehicle 24/7 as a result of which it consumes a lot of energy. 
+Due to the absence of vibration (movement) sensor the theft of the vehicle cannot be detected immediately.
+
