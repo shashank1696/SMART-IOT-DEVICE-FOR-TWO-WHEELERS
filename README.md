@@ -28,3 +28,7 @@ In India, 1lakh cases of vehicle theft on average are reported each year, and th
 The main problem in the existing system is that the GPS tracker tracks and monitors the vehicle 24/7 as a result of which it consumes a lot of energy. 
 Due to the absence of vibration (movement) sensor the theft of the vehicle cannot be detected immediately.
 
+## Proposed Sytem :
+The proposed system uses a switch to turn ON and OFF the device which is controlled by the user/owner. When the user turn OFF the switch, the device goes to active mode. When the user disconnects to the device goes to parking mode and device is connected to cloud server through LPWA (low- power wide range network). When the device is in parking mode, movement of the vehicle is sensed using vibration sensor and the owner is notified along with the GPS coordinates of the vehicle.
+
+##
